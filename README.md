@@ -2,8 +2,6 @@
 
 **aatarragon/aatarragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I'm Currently working on a project for Albany Rural Cemetary
 - 🌱 I’m currently learning GIS skills, and basic editing of code
 - 👯 I'm not currentley looking to collaborate on more projects at this time 6/4/26
